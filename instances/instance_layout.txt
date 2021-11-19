@@ -1,0 +1,4 @@
+n m t 
+tool switch time
+mold_1, mold_2 ... mold_n
+processing time job_1, processing time job_2, processing time job_n
